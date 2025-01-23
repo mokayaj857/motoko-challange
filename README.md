@@ -25,6 +25,11 @@ This is a coding challenge for implementing a decentralized auction system on th
 git clone https://github.com/ICP-Hub-Kenya/motoko-challange
 ``` 
 
+2. CD into the ``motoko-auction-challange`` directory
+```bash
+cd motoko-auction-challange
+```
+
 ## How to Submit: 
 1. Fork this repository
 
