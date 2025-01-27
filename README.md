@@ -52,7 +52,3 @@ git checkout -b solution/your-name
    - Brief explanation of your implementation
    - Any additional features or improvements
    - Video showing the whole demo
-
-## Resources
-You can refer to the Motoko base library documentation and the Internet Computer developer documentation for assistance. The example repo and presentation slides from the KTH summer school workshop may also be helpful:
-[Developer weekly update June 21, 2023](https://internetcomputer.org/blog/2023/06/21/news-and-updates/update#motoko-workshop-at-kth-summer-school)
